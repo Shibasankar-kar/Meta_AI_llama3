@@ -17,7 +17,7 @@
         android:launchMode="singleTask"
         android:windowSoftInputMode="adjustResize"
         android:exported="true"
-        android:usesClearTextTraffic:"true"
+        android:usesClearTextTraffic="true"
         >
         <intent-filter>
             <action android:name="android.intent.action.MAIN" />
